@@ -1,4 +1,4 @@
-# Digital Communication Systems - Simulation
+# Digital Communication Systems | Simulation
 
 ![alt text](https://github.com/marlonffernandes/digital-communication-systems/blob/main/images/eye_diagram.jpg)
 
